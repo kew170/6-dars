@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.row{
+    width: 1800px;
+    height: 1800px;
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin: 0;
+    grid-template-columns: max-content;
+    
+
+}
+.box{
+    width: 100px;
+    height: 150px;
+}
